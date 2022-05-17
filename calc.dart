@@ -13,7 +13,6 @@ void main() {
     rightNum = '';
     calcOperator = COcalcFormula;
   }
-  multip
 
   print('計算式を入力してください');
   String inputFormula = stdin.readLineSync().toString();
